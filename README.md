@@ -1,7 +1,3 @@
-# Embedded_Systems_Project
+## Introduction
 
-Fridge Air Quality Assessment
-Embedded Systems Project
-Using embedded C to integrate MH IR sensor with LPC
-1768 microprocessor to determine the air and food
-quality using humidity and temperature metrics
+The **Fridge Door Alarm System** is an embedded project designed to promote food safety and energy efficiency in household refrigerators. Utilizing an LPC1768 microcontroller and an MH infrared sensor, this system continuously monitors the fridge door status in real time. When the door is left open beyond a set duration, the system provides immediate visual and auditory alerts through an LED indicator and a buzzer. By encouraging users to promptly close the fridge door, the Fridge Door Alarm helps reduce food spoilage, minimize energy waste, and foster responsible usage habits aligned with sustainable living practices.
