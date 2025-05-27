@@ -1,8 +1,4 @@
 ## 🧊 Fridge Door Alarm System
-
-![Fridge Door Alarm Illustration](https://user-images.githubusercontent.com/your-username/your-image.png)
-<!-- Replace the above URL with the actual path or upload your illustration to GitHub and use its URL here -->
-
 ---
 
 The **Fridge Door Alarm System** 🚪🔔 is an embedded electronics project created to boost both **food safety** 🍎 and **energy efficiency** ⚡ in your household refrigerator! 
@@ -14,9 +10,5 @@ By encouraging everyone to close the fridge door promptly, this project helps:
 - Save energy 🌱
 - Promote responsible, eco-friendly habits 🌍
 
----
 
-> **Tip:**  
-> Add your own system photo, wiring diagram, or a cool schematic in the space above to make your README pop!  
->  
-> Want more sections? Try adding Features, How It Works, Wiring Guide, or Demo Videos!
+
