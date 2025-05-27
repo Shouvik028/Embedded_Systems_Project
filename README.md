@@ -1,3 +1,5 @@
 ## Introduction
 
-The **Fridge Door Alarm System** is an embedded project designed to promote food safety and energy efficiency in household refrigerators. Utilizing an LPC1768 microcontroller and an MH infrared sensor, this system continuously monitors the fridge door status in real time. When the door is left open beyond a set duration, the system provides immediate visual and auditory alerts through an LED indicator and a buzzer. By encouraging users to promptly close the fridge door, the Fridge Door Alarm helps reduce food spoilage, minimize energy waste, and foster responsible usage habits aligned with sustainable living practices.
+The **Fridge Door Alarm System** is an embedded electronics project designed to promote food safety and energy efficiency in household refrigerators. Leveraging an **LPC1768 microcontroller** and an **MH infrared sensor**, this system continuously monitors the fridge door status in real time.
+
+If the door is left open beyond a preset duration, the system immediately notifies users with both visual (LED indicator) and auditory (buzzer) alerts. By encouraging prompt closure of the fridge door, the Fridge Door Alarm helps reduce food spoilage, minimize unnecessary energy consumption, and foster responsible usage habits aligned with sustainable and eco-friendly living.
